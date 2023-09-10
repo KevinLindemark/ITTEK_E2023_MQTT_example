@@ -3,7 +3,7 @@
 
 # ADAFRUIT_IO_URL behøves ikke at ændres
 
-# ADAFRUIT_IO_FEEDNAME behøves ikke at ændres
+# ADAFRUIT_IO_FEEDNAME behøves ikke at ændres (men skal oprettes med samme navn)
 # men der skal oprettes en feed med samme navn på adafruit.io
 
 credentials = {
