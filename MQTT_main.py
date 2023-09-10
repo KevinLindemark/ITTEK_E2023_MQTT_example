@@ -4,6 +4,9 @@ import umqtt_robust2 as mqtt
 
 while True:
     try:
+        # Indskriv egen kode her:
+        
+        
         if len(mqtt.besked) != 0: # Her nulstilles indkommende beskeder
             mqtt.besked = ""
             
